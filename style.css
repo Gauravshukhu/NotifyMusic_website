@@ -139,7 +139,11 @@ nav ul li{
     }
 
 }
-@media only screen  and (min-width: 600px){
+@media only screen  and (min-width: 300px){
+    body{
+        background-color: red;
+    }
+        
     .bottom{
         position: sticky;
     bottom: 0;
