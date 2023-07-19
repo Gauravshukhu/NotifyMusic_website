@@ -11,15 +11,15 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 
 let songs =[
-    {songName:"Cheques", filePath:"songs/1.mp3",coverPath:"covers/1.jpg"},
-    {songName:"Cadillac", filePath:"songs/2.mp3",coverPath:"covers/2.jpg"},
-    {songName:"Baller",filePath:"songs/3.mp3",coverPath:"covers/3.jpg"},
-    {songName:"Elevated",filePath:"songs/4.mp3",coverPath:"covers/4.jpg"},
+    {songName:"Cheq", filePath:"songs/1.mp3",coverPath:"covers/1.jpg"},
+    {songName:"Cadi", filePath:"songs/2.mp3",coverPath:"covers/2.jpg"},
+    {songName:"Bay",filePath:"songs/3.mp3",coverPath:"covers/3.jpg"},
+    {songName:"Elev",filePath:"songs/4.mp3",coverPath:"covers/4.jpg"},
     {songName:"Og",filePath:"songs/5.mp3",coverPath:"covers/5.jpg"},
     {songName:"Dior",filePath:"songs/6.mp3",coverPath:"covers/6.jpg"},
     {songName:"Her",filePath:"songs/7.mp3",coverPath:"covers/7.jpg"},
-    {songName:"Ruthless",filePath:"songs/8.mp3",coverPath:"covers/8.jpg"},
-    {songName:"we Rollin",filePath:"songs/9.mp3",coverPath:"covers/9.jpg"},
+    {songName:"Ruth",filePath:"songs/8.mp3",coverPath:"covers/8.jpg"},
+    {songName:"Roll",filePath:"songs/9.mp3",coverPath:"covers/9.jpg"},
     {songName:"Amanat",filePath:"songs/10.mp3",coverPath:"covers/10.jpg"},
 
     
