@@ -126,4 +126,31 @@ nav ul li{
     body {
       background-color: #b05f6d;
     }
+    .bottom{
+         position: sticky;
+    bottom: 0;
+    height: 150px;
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+
 }
+@media only screen  and (min-width: 600px){
+    .bottom{
+        position: sticky;
+    bottom: 0;
+    height: 150px;
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+}
+        
+
