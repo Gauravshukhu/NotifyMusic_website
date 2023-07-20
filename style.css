@@ -65,6 +65,7 @@ nav ul li{
     justify-content: center;
     align-items: center;
     flex-direction: column; 
+    Transition: 0.8s;
 
    
 
