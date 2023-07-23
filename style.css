@@ -58,15 +58,14 @@ nav ul li{
 .bottom{
     position: fixed;
     bottom: 0;
-    height: 150px;
+    height: 100px;
     background-color: #462446;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; 
-    Transition: 0.8s;
-
+/*     flex-direction: column;  */
+    
    
 
 }
@@ -136,7 +135,7 @@ nav ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+/*     flex-direction: column; */
     }
 
 }
@@ -154,7 +153,7 @@ nav ul li{
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+/*     flex-direction: column; */
     }
 }
         
